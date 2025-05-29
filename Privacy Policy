@@ -1,0 +1,63 @@
+Privacy Policy
+Effective Date: 1 June 2025
+Welcome to Ting Xie App. Your privacy is important to us. This Privacy Policy explains how we collect, use, and safeguard your information when you use our iOS educational App.
+By using our App, you agree to this Privacy Policy.
+
+1. Information We Collect
+We collect the following types of information:
+a. Personal Information
+Email address and password used for account registration and login (via Firebase Authentication).
+
+b. Usage & Device Data
+We collect usage data to help improve the app and user experience. This may include:
+Activity within the app (e.g., lessons/questions attempted, scores, session start/end times).
+App interaction events such as sign-ins, sign-outs, and crash logs.
+Country or region based on device location settings or IP address.
+Device information, such as device model and operating system version.
+
+This data is collected automatically through Firebase Analytics and Firestore.
+
+2. How We Use Your Information
+We use your information to:
+Authenticate and manage your account.
+Store and analyze learning progress.
+Understand how users interact with the App across different regions and devices.
+Improve App performance, fix technical issues, and enhance user experience.
+Provide customer support and manage your subscription status.
+
+3. Subscriptions & Payments
+Our app includes auto-renewing subscriptions managed via the Apple App Store.
+We do not collect or store your payment information.
+All subscription billing and management is handled securely by Apple.
+You can manage your subscription in your Apple ID account settings.
+
+4. Data Sharing
+We do not sell your personal information. We may share your data:
+With Firebase (a Google service) for authentication, analytics, and data storage.
+With service providers as necessary to support our operations.
+As required by law, such as to comply with legal obligations or requests from authorities.
+
+5. Data Security
+We take reasonable measures to protect your data, including:
+Use of Firebase’s secure infrastructure.
+Encrypted connections (HTTPS) and secure storage. However, no system is completely secure. We cannot guarantee the absolute security of your information.
+
+6. Your Rights and Choices
+You can:
+View and update your account information in the App.
+Request deletion of your account and associated data by contacting us.
+Limit data collection by adjusting your device’s privacy settings.
+
+To make any data-related requests, contact us at tingxie2025@gmail.com.
+
+7. Children’s Privacy
+Our app is designed for children to use under the supervision of a parent, guardian, or educator. We do not knowingly collect personal data directly from children under 13 without verified parental consent.
+
+8. Changes to This Policy
+We may update this Privacy Policy from time to time. If we make changes, we will update the "Effective Date" above and may notify users via email or in-App messaging.
+
+9. Contact Us
+If you have questions or concerns about this policy, please contact:
+Email: tingxieapp2025@gmail.com
+App Name: Ting Xie App
+
